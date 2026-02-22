@@ -16,4 +16,4 @@ A console-based application that generates structured weekly revision schedules 
 - Structured programming
 
 ## Purpose
-This project was developed to strengthen understanding of scheduling algorithms, structured logic, and workload optimisation.
+This project was developed to strengthen my understanding of scheduling algorithms, structured logic, and workload optimisation.
